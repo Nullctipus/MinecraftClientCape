@@ -2,7 +2,7 @@
 Replaces the cape that would normaly be used by Forge/Optifine/Mantle to a client side one
 
 # Instructions
-Download (Latest Release)[https://github.com/BustR75/MinecraftClientCape/releases/latest]
+Download [Latest Release](https://github.com/BustR75/MinecraftClientCape/releases/latest)
 
 Extract To a Folder
 
